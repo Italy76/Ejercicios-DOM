@@ -32,6 +32,5 @@ class Persona{
     mostrarDatos(){
         document.write(`<br>Nombre: ${this.nombre}<br>Edad: ${this.edad}<br>DNI: ${this.dni}<br>Sexo: ${this.sexo}<br>Peso: ${this.peso}<br>Altura: ${this.altura}<br>Fecha de Nacimiento: ${this.nacimiento}<br>`)
     }
+
 }
-
-
